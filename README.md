@@ -91,7 +91,7 @@ Put this code into your [home-manager](https://github.com/nix-community/home-man
 }
 ```
 
-or with the module import inside a home-manager module.
+or with the module import inside a home-manager module:
 
 ```nix
 { inputs, osConfig, ... }:
